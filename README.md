@@ -8,7 +8,7 @@ Hybrid expert system combining CNNs, metalearning, and rule-based reasoning for 
 **Group Members:**
 - **Student 1 (Technical Lead):** Saba Sabzevari
 - **Student 1 (Figures & Presentation):** Saba Sabzevari
-- **Student 3 (Report & Storytelling):** Isha
+- **Student 2 (Report & Storytelling):** Isha
 
 ## Dataset
 - **Source:** [Kaggle Comprehensive Soil Classification Dataset](https://www.kaggle.com/datasets/ai4a-lab/comprehensive-soil-classification-datasets)
